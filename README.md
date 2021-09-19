@@ -8,6 +8,8 @@ The directory will be created on login (open session) and removed on logout
 (close session), and its full path made available in an environment variable,
 usually `$XDG_RUNTIME_DIR`.
 
+This fork contains some changes of the original implementation for Artix Linux.
+
 ## Free Software
 
 pam_rundir - Copyright (C) 2015 Olivier Brunel <jjk@jjacky.com>
